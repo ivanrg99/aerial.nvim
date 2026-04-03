@@ -26,7 +26,7 @@ https://user-images.githubusercontent.com/506791/122652728-18688500-d0f5-11eb-80
 
 ## Requirements
 
-- Neovim 0.9+ (for older versions, use a [nvim-0.x branch](https://github.com/stevearc/conform.nvim/branches))
+- Neovim 0.11+ (for older versions, use a [nvim-0.x branch](https://github.com/stevearc/conform.nvim/branches))
 - One or more of the following:
   - A working LSP setup (see [nvim-lspconfig](https://github.com/neovim/nvim-lspconfig))
   - Tree-sitter parsers
@@ -144,6 +144,7 @@ In addition, you will need to have either Treesitter or a working LSP client. Yo
 - c_sharp
 - cpp
 - css
+- cuda
 - dart
 - djot
 - editorconfig
@@ -179,6 +180,7 @@ In addition, you will need to have either Treesitter or a working LSP client. Yo
 - scala
 - snakemake
 - solidity
+- sql
 - ssh_config
 - starlark
 - swift
