@@ -149,6 +149,7 @@ In addition, you will need to have either Treesitter or a working LSP client. Yo
 - djot
 - editorconfig
 - elixir
+- elm
 - enforce
 - fennel
 - fish
@@ -172,6 +173,7 @@ In addition, you will need to have either Treesitter or a working LSP client. Yo
 - objdump
 - php
 - proto
+- puppet
 - python
 - r
 - rst
@@ -184,12 +186,15 @@ In addition, you will need to have either Treesitter or a working LSP client. Yo
 - ssh_config
 - starlark
 - swift
+- systemverilog
 - teal
 - terraform
 - toml
 - tsx
 - typescript
+- typst
 - usd
+- vhdl
 - vim
 - vimdoc
 - vue
